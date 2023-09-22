@@ -1,9 +1,9 @@
 #inclued "main.h"
 
 /**
- * print_number - function that prints an integer
+ * print_number - prints numbers chars
  * @n: integer params
- * Returns: Always 0.
+ * Returns: 0
  */
 
 void print_number(int n)
